@@ -1,0 +1,8 @@
+.DS_Store
+
+# SwiftPM 构建产物
+.build/
+
+# 打包产物
+build/
+dist/
